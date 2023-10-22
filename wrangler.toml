@@ -1,0 +1,7 @@
+name = "my-worker"
+main = "src/index.js"
+compatibility_date = "2023-10-22"
+type = "webpack"
+account_id = "918f8d1d644318be010110e7b43c9ccd"
+workers_dev = true
+route = "tunnel.jasooni.com/secure/*"
